@@ -1,1 +1,0 @@
-- Caso fique desconectado com a internet
